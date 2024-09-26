@@ -1,4 +1,4 @@
-//Array to hold movie objectsss
+//Array to hold movie objects
 const movies = [];
 
 async function createMovies(movie) {
